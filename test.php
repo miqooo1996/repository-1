@@ -7,3 +7,4 @@
  */
 
 echo "asfasf";
+$a = 10;
